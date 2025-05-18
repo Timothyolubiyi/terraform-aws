@@ -1,2 +1,2 @@
 # terraform-aws
-introduction to terraform aws
+This is infracture as code provisioning for terraform aws
